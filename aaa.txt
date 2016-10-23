@@ -1,6 +1,7 @@
 ﻿<html>
 	<head>
-	<title> GITTTTTTTT</title>
+	<meta charset="UTF-8">
+	<title> GITTTTTTTT 수업</title>
 	</head>
 	<body>
 		<ul>
