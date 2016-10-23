@@ -12,6 +12,7 @@
 			</li>
 			<li>test</li>
 			<li>충돌테스트!!!</li>
+			<li>충돌해결</li>
 
 		</ul>	
 	</body>
